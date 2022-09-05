@@ -6,6 +6,7 @@
 | 9.2     |  [🦝](Judge/7th/A.java) |  [🦝](Programmers/lottos-wins/로또의최고순위와최저순위.java ) | |
 | 9.3     |  [🦝](Judge/6th/A.java) | [🦝](Programmers/personality-type-test/성격유형검사하기.java) | [🦝](Baekjoon/2178/Main.java)|
 | 9.4     |  | [🦝](Programmers/unfinished-player/완주하지못한선수.java) | [🦝](Baekjoon/1174/Main.java)|
+| 9.5     |  | |  |
 
 --------------------------------
 
