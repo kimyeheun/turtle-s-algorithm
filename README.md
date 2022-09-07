@@ -7,7 +7,7 @@
 | 9.3     |  [🦝](Judge/6th/A.java) | [🦝](Programmers/personality-type-test/성격유형검사하기.java) | [🦝](Baekjoon/2178/Main.java)|
 | 9.4     |  | [🦝](Programmers/unfinished-player/완주하지못한선수.java) | [🦝](Baekjoon/1174/Main.java)|
 | 9.5     |  | |  |
-
+| 9.6     |  | |  |
 --------------------------------
 
 <h3>[문제 URL]</h3>
